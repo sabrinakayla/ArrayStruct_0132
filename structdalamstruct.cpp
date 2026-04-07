@@ -15,7 +15,6 @@ struct Orang
 };
 
 int main()
-{
         {
         //Deklarasi variabel struct
         Orang mhs;
